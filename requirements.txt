@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+nltk
+python-docx
+scikit-learn
+plotly
+
+sklearn

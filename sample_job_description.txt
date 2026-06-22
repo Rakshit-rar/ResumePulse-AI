@@ -1,0 +1,22 @@
+Software Development Engineer
+Awesome Company | Seattle, WA
+
+About Us
+Awesome Company is seeking a talented Software Development Engineer to join our dynamic team. You will be responsible for designing, developing, and deploying high-quality software solutions.
+
+Responsibilities
+- Design, develop, and maintain scalable and robust software applications.
+- Write clean, efficient, and well-documented code in Python or Java.
+- Participate in code reviews and contribute to architectural decisions.
+- Work with databases like PostgreSQL and MongoDB.
+- Utilize AWS services for cloud deployments.
+- Collaborate with product management and other engineering teams.
+
+Qualifications
+- Bachelor's or Master's degree in Computer Science or a related field.
+- 3+ years of professional software development experience.
+- Strong proficiency in Python or Java.
+- Experience with RESTful API development.
+- Familiarity with cloud platforms (e.g., AWS, Azure, GCP).
+- Experience with Agile development methodologies.
+- Knowledge of Docker and Kubernetes is a plus.
