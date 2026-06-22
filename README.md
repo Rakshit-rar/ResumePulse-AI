@@ -1,4 +1,4 @@
-# 🚀 ResumePulse AI – Resume Analyzer & Skill Gap Detector
+# 🚀 PulseMatch AI – Resume Analyzer & Skill Gap Detector
 
 ResumePulse AI is an AI-powered career intelligence platform designed to help job seekers evaluate their resumes, identify skill gaps, and accelerate their professional growth. By combining Natural Language Processing (NLP) and Machine Learning, the system analyzes resumes, predicts the most suitable job role, extracts technical and soft skills, calculates a role-match score, and generates a personalized learning roadmap.
 
