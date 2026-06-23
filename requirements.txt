@@ -1,0 +1,9 @@
+streamlit
+pandas
+nltk
+python-docx
+pymupdf
+pytesseract
+Pillow
+scikit-learn
+plotly
